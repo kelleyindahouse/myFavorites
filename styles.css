@@ -1,0 +1,28 @@
+* {
+ background: linear-gradient(90deg, rgba(215, 107, 29, 1) 0%, rgba(1, 0, 46, 1) 50%, rgba(215, 107, 29, 1) 100%);
+ ;
+}
+
+h1 {
+ color: rgb(240, 254, 255);
+ font-size: 50px;
+}
+
+header {
+ font-family: sans-serif;
+ text-align: center;
+}
+
+.img {
+ display: block;
+ width: 100%;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+.btn {
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ background: black;
+ color: chartreuse;
+ margin-bottom: 20px;
+}
